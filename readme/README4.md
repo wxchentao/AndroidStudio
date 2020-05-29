@@ -10,7 +10,7 @@
 
 #### （2）在按钮里设置点击监听，动作就是获取editText的内容，解析为uri对象传入隐式intent来调用
 
-1.2:![Alt](https://github.com/wxchentao/AndroidStudio/blob/master/images/third/1.2.png)
+1.2:![Alt](https://github.com/wxchentao/AndroidStudio/blob/master/images/fourth/1.2.png)
 
 #### （3）这就是运行后的界面
 
@@ -40,7 +40,7 @@
 
 #### （4）回到上一个工程里，在AndroidManifest.xml文件中设置intent过滤器，为了让选择浏览器时能看到我们的自定义browser。其中一个uses-permission用来使用网络，usesCleartextTraffic设为true。然后安装应用
 
-2.4:![Alt](https://github.com/wxchentao/AndroidStudio/blob/master/images/fourth2.4.png)
+2.4:![Alt](https://github.com/wxchentao/AndroidStudio/blob/master/images/fourth/2.4.png)
 
 2.5:![Alt](https://github.com/wxchentao/AndroidStudio/blob/master/images/fourth/2.5.png)
 
